@@ -41,7 +41,7 @@ const Footer = () => {
                 </div>
                 <div className="flex hover:text-[#cacaca]">
                     <img src={linkedin} alt="linkedin svg" className="w-4 mr-2"/>
-                    <a href="https://www.linkedin.com/in/daniel-ch%C3%A1vez-93065b181/">Daniel Esteban Chávez Sánchez</a>
+                    <a href="https://www.linkedin.com/in/daniel-chavez-engineer-developer/">Daniel Chávez</a>
                 </div>
                 <div className="flex hover:text-[#cacaca]">
                     <img src={linkedin} alt="linkedin svg" className="w-4 mr-2"/>
